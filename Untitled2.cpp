@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//tailbarla
 main()
 {
 	int A[100],i,k=1,n;
